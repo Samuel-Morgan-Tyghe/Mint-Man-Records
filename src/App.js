@@ -6,8 +6,8 @@ import {
   Switch,
   useLocation,
 } from "react-router-dom";
-import {  Home, About, Contact } from "./components/index";
-import Navigation from './components/Nav'
+import { Home, Releases, Artists, Info,Videos } from "./components/index";
+import Navigation from "./components/Nav";
 
 function App() {
   return (
@@ -15,8 +15,10 @@ function App() {
       <Navigation />
       <Switch>
         <Route exact path={"/"} component={Home} />
-        <Route exact path={"/about"} component={About} />
-        <Route exact path={"/contact"} component={Contact} />
+        <Route exact path={"/Releases"} component={Releases} />
+        <Route exact path={"/Artists"} component={Artists} />
+        <Route exact path={"/info"} component={Info} />
+        <Route exact path={"/Videos"} component={Videos} />
         <Router path={"*"}>
           <NotFound />
         </Router>

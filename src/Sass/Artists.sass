@@ -1,0 +1,48 @@
+
+@font-face
+    font-family: Ramona-Light
+    src: url(../Assets/Fonts/Ramona-Light.ttf)
+
+
+
+@font-face
+    font-family: Ramona-Light
+    src: url(../Assets/Fonts/Ramona-Light.ttf)
+
+.Artists
+    display: flex
+    flex-flow: row wrap
+    justify-content: space-around
+    align-content: space-between
+
+    div
+        position: relative
+        width: 500px
+        margin: 15px
+    .outer
+        margin: 0
+    .middle
+        transition: .5s ease
+        opacity: 0
+        position: absolute
+        top: 20px
+        left: 20px
+        transform: translate(-50%, -50%)
+        -ms-transform: translate(-50%, -50%)
+        text-align: center
+    img
+        opacity: 1
+        width: 500px
+        height: 200px
+        object-fit: none
+    img:hover
+        opacity: 0.6
+    .outer:hover .middle
+        opacity: 1
+    p
+        font-family: Ramona-Light
+        margin-left: 20px
+    a
+        font-family: Ramona-Light
+        text-decoration: none
+        text-align: center

@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Ramona-Light;
+  src: url(../Assets/Fonts/Ramona-Light.ttf); }
+
+.Releases {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-content: space-between; }
+  .Releases div {
+    margin: 15px; }
+  .Releases img {
+    width: 500px; }
+  .Releases img:hover {
+    opacity: 0.6; }
+  .Releases p {
+    font-family: Ramona-Light; }

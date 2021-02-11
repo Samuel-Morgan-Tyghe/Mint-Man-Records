@@ -1,0 +1,6 @@
+.home {
+  width: 100%; }
+  .home img {
+    width: 50%;
+    margin: auto;
+    transition: opacity 0.5s linear; }
