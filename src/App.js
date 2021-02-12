@@ -14,7 +14,7 @@ function App() {
     <Router>
       <Navigation />
       <Switch>
-        <Route exact path={"/"} component={Home} />
+        <Route exact path={"/Mint-Man-Records"} component={Home} />
         <Route exact path={"/Releases"} component={Releases} />
         <Route exact path={"/Artists"} component={Artists} />
         <Route exact path={"/info"} component={Info} />

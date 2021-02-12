@@ -7,7 +7,7 @@ export default function Navigation() {
     <nav className="navbar">
       <ul className="navbar outerList">
         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
-          <Link className="logo" to="/">
+          <Link className="logo" to="/Mint-Man-Records">
             Mint man
             <br />
             Records
