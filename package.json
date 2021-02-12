@@ -1,6 +1,7 @@
 {
   
   "homepage": "https://samuel-morgan-tyghe.github.io/Mint-Man-Records/",
+  "baseURL": "/Mint-Man-Records",
 
 "name": "my-app",
   "version": "0.1.0",
