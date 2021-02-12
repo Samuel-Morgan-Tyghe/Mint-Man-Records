@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28de321f192e1a610f8376fc6e317eab",
+    "revision": "dde86d589cee212404685242050d2e23",
     "url": "/Mint-Man-Records/index.html"
   },
   {
-    "revision": "e68ea82a0f04bffaff08",
-    "url": "/Mint-Man-Records/static/css/main.23bc5782.chunk.css"
+    "revision": "f330546fbac51dfb4bda",
+    "url": "/Mint-Man-Records/static/css/main.f6b43108.chunk.css"
   },
   {
     "revision": "f6bbd723532e0cafbaf5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mint-Man-Records/static/js/2.6895493b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e68ea82a0f04bffaff08",
+    "revision": "f330546fbac51dfb4bda",
     "url": "/Mint-Man-Records/static/js/main.398489b9.chunk.js"
   },
   {
@@ -106,9 +106,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc89103531cb320df94007368c7fd54c",
     "url": "/Mint-Man-Records/static/media/SangoUppercase-Static.dc891035.otf"
-  },
-  {
-    "revision": "59311f5205728c449e1661aacdfc0171",
-    "url": "/Mint-Man-Records/static/media/background.59311f52.gif"
   }
 ]);
