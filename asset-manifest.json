@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Mint-Man-Records/static/css/main.23bc5782.chunk.css",
-    "main.js": "/Mint-Man-Records/static/js/main.a64a2873.chunk.js",
-    "main.js.map": "/Mint-Man-Records/static/js/main.a64a2873.chunk.js.map",
+    "main.js": "/Mint-Man-Records/static/js/main.398489b9.chunk.js",
+    "main.js.map": "/Mint-Man-Records/static/js/main.398489b9.chunk.js.map",
     "runtime-main.js": "/Mint-Man-Records/static/js/runtime-main.df0af636.js",
     "runtime-main.js.map": "/Mint-Man-Records/static/js/runtime-main.df0af636.js.map",
     "static/js/2.6895493b.chunk.js": "/Mint-Man-Records/static/js/2.6895493b.chunk.js",
     "static/js/2.6895493b.chunk.js.map": "/Mint-Man-Records/static/js/2.6895493b.chunk.js.map",
     "index.html": "/Mint-Man-Records/index.html",
-    "precache-manifest.13bcf27968083c180e7d257b18ed1f3b.js": "/Mint-Man-Records/precache-manifest.13bcf27968083c180e7d257b18ed1f3b.js",
+    "precache-manifest.75262766d257200490fd8a069432110c.js": "/Mint-Man-Records/precache-manifest.75262766d257200490fd8a069432110c.js",
     "service-worker.js": "/Mint-Man-Records/service-worker.js",
     "static/css/main.23bc5782.chunk.css.map": "/Mint-Man-Records/static/css/main.23bc5782.chunk.css.map",
     "static/js/2.6895493b.chunk.js.LICENSE.txt": "/Mint-Man-Records/static/js/2.6895493b.chunk.js.LICENSE.txt",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.df0af636.js",
     "static/js/2.6895493b.chunk.js",
     "static/css/main.23bc5782.chunk.css",
-    "static/js/main.a64a2873.chunk.js"
+    "static/js/main.398489b9.chunk.js"
   ]
 }
