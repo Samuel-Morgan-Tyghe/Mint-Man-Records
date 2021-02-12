@@ -1,5 +1,8 @@
 {
-  "name": "my-app",
+  
+  "homepage": "https://samuel-morgan-tyghe.github.io/Mint-Man-Records/",
+
+"name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,8 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
+        "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
