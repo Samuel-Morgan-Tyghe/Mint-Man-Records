@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dde86d589cee212404685242050d2e23",
+    "revision": "e6d82615cd4d9d51e676fab5065a2283",
     "url": "/Mint-Man-Records/index.html"
   },
   {
-    "revision": "f330546fbac51dfb4bda",
-    "url": "/Mint-Man-Records/static/css/main.f6b43108.chunk.css"
+    "revision": "d8a15375674323aaf516",
+    "url": "/Mint-Man-Records/static/css/main.c5733af4.chunk.css"
   },
   {
-    "revision": "f6bbd723532e0cafbaf5",
-    "url": "/Mint-Man-Records/static/js/2.6895493b.chunk.js"
+    "revision": "bd07a74c5ce6b2f4df7c",
+    "url": "/Mint-Man-Records/static/js/2.09a03354.chunk.js"
   },
   {
     "revision": "8da57ccee1690fd1d0790b5fcb8f1bad",
-    "url": "/Mint-Man-Records/static/js/2.6895493b.chunk.js.LICENSE.txt"
+    "url": "/Mint-Man-Records/static/js/2.09a03354.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f330546fbac51dfb4bda",
-    "url": "/Mint-Man-Records/static/js/main.398489b9.chunk.js"
+    "revision": "d8a15375674323aaf516",
+    "url": "/Mint-Man-Records/static/js/main.df21e3bb.chunk.js"
   },
   {
     "revision": "58b05328b65e38f62820",
@@ -106,5 +106,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dc89103531cb320df94007368c7fd54c",
     "url": "/Mint-Man-Records/static/media/SangoUppercase-Static.dc891035.otf"
+  },
+  {
+    "revision": "06cad6a33097a2acc2e3e0c3666f5e8a",
+    "url": "/Mint-Man-Records/static/media/mint-logo.06cad6a3.webp"
   }
 ]);
