@@ -1,12 +1,17 @@
 import { Link } from "react-router-dom";
 import React from "react";
 import { motion } from "framer-motion";
+import logoImg from "../Assets/Images/mint-logo.webp";
+// import img1 from "../Assets/Images/test/2.webp";
 
 export default function Navigation() {
   return (
     <nav className="navbar">
       <ul className="navbar outerList">
         <motion.div whileHover={{ scale: 1.1 }} whileTap={{ scale: 0.9 }}>
+          <div className="centerDiv">
+            <img className="logoImg" src={logoImg} alt="Logo"></img>
+          </div>
           <Link className="logo" to="/Mint-Man-Records">
             Mint man
             <br />

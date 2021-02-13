@@ -46,15 +46,22 @@ export default class Home extends Component {
       () =>
         this.setState({
           currentImage: this.state.allImages[this.state.i],
-          i: this.state.i + 1,
+          i: this.resetI(),
         }),
-      5000
+
+      3000
     );
   }
   componentWillUnmount() {
     clearInterval(this.interval);
   }
-
+  resetI() {
+    if (this.state.i < 16) {
+      return this.state.i + 1;
+    } else {
+      return 1;
+    }
+  }
   render() {
     return (
       <div className="pageDefault home">
