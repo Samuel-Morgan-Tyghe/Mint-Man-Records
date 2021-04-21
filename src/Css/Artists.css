@@ -42,3 +42,5 @@
     font-family: Ramona-Light;
     text-decoration: none;
     text-align: center; }
+  .Artists li {
+    list-style-type: none; }

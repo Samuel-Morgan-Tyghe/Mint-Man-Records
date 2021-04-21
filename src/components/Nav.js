@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import React from "react";
 import { motion } from "framer-motion";
-import logoImg from "../Assets/Images/mint-logo.webp";
+import logoImg from "../Assets/Images/mint-logo.png";
 // import img1 from "../Assets/Images/test/2.webp";
 
 export default function Navigation() {

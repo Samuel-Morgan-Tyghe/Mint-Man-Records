@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import img1 from "../Assets/Images/test/2.webp";
-import img2 from "../Assets/Images/test/3.webp";
+import img1 from "../Assets/Images/King Filth.jpg";
+import img2 from "../Assets/Images/Edgware.jpg";
 import img3 from "../Assets/Images/test/4.webp";
 import img4 from "../Assets/Images/test/5.webp";
 import img5 from "../Assets/Images/test/6.webp";
@@ -20,8 +20,8 @@ export default class Artists extends Component {
   render() {
     return (
       <div className="pageDefault Artists">
-        <div><div className='outer'><img src={img1} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 1 </p></div>
-        <div><div className='outer'><img src={img2} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 2 </p></div>
+        <div><div className='outer'><img src={img1} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>King Filth</p></div>
+        <div><div className='outer'><img src={img2} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Edgware</p></div>
         <div><div className='outer'><img src={img3} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 3 </p></div>
         <div><div className='outer'><img src={img4} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 4 </p></div>
         <div><div className='outer'><img src={img5} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 5 </p></div>
