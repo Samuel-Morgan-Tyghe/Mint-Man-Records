@@ -23,7 +23,10 @@
     -ms-transform: translate(-50%, -50%);
     text-align: center; }
   .Releases img {
-    opacity: 1; }
+    opacity: 1;
+    width: 100%;
+    height: 500px;
+    object-fit: cover; }
   .Releases img:hover {
     opacity: 0.6; }
   .Releases .outer:hover .middle {

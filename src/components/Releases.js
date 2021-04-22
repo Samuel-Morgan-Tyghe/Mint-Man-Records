@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import img1 from "../Assets/Images/test/2.webp";
-import img2 from "../Assets/Images/test/3.webp";
+import img1 from "../Assets/Images/King Filth.jpg";
+import img2 from "../Assets/Images/Edgware.jpg";
 import img3 from "../Assets/Images/test/4.webp";
 import img4 from "../Assets/Images/test/5.webp";
 import img5 from "../Assets/Images/test/6.webp";
@@ -20,8 +20,8 @@ export default class Releases extends Component {
   render() {
     return (
       <div className="pageDefault Releases">
-        <div><div className='outer'><img src={img1} /><div class="middle"><p>CD Size</p></div></div> <p>Example 1 </p><p>Artist 1</p></div>
-        <div><div className='outer'><img src={img2} /><div class="middle"><p>CD Size</p></div></div> <p>Example 2 </p><p>Artist 2</p></div>
+        <div><div className='outer'><img src={img1} /><div class="middle"><p>CD Size</p></div></div> <p>Example 1 </p><p>King Filth</p></div>
+        <div><div className='outer'><img src={img2} /><div class="middle"><p>CD Size</p></div></div> <p>Example 2 </p><p>Edgware</p></div>
         <div><div className='outer'><img src={img3} /><div class="middle"><p>CD Size</p></div></div> <p>Example 3 </p><p>Artist 3</p></div>
         <div><div className='outer'><img src={img4} /><div class="middle"><p>CD Size</p></div></div> <p>Example 4 </p><p>Artist 4</p></div>
         <div><div className='outer'><img src={img5} /><div class="middle"><p>CD Size</p></div></div> <p>Example 5 </p><p>Artist 5</p></div>
