@@ -25,11 +25,14 @@
 
 *
   /* text-align: center; */
+  padding: 0
+  margin: 0
+  box-sizing: border-box
   color: black
 
 #root
-  margin: 0
-  padding: 0
+  // margin: 0
+  // padding: 0
   display: flex
   // grid-template-columns: 250px auto
   width: 100%
@@ -40,40 +43,41 @@
   // background-image: url(../Assets/Images/background.gif)
   // background-blend-mode: difference
 
-.centerDiv
-  width: 100%
-  .logoImg
-    margin-left: 25px
-    width: 50%
-html
-  padding: 0
-  margin: 0
-
-body
-  margin: 0
-
 .navbar
+  display: flex
+  flex-direction: column
+  align-items: center
+  // justify-content: center
   width: 220px
   padding: auto
-  margin: 0
+  margin: 1rem
   grid-row-start: 1
 
   .outerList
     margin-top: 40px
     color: white
     font-family: Sango
-    font-size: 20px
+    font-size: 1.5rem
     text-decoration: none
+    padding: 1rem
+    .logoImg
+      width: 80%
+      padding: 1rem
     .logo
       // margin-bottom: 440px
       font-size: 30px
       text-decoration: none
+      text-align: center
+      // padding: 1rem
       // padding: 100px
     .innerList
-      margin-top: 20px
+      // margin-top: 20px
       font-family: Benz
       text-decoration: none
       list-style-type: none
       padding-left: 0
-      a
-        text-decoration: none
+      text-decoration: none
+      text-align: right
+      padding: 1rem
+    a
+      width: 100%
