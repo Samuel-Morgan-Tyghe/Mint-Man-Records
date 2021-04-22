@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import img1 from "../Assets/Images/King Filth.jpg";
+import img1 from "../Assets/Images/King Filth.png";
 import img2 from "../Assets/Images/Edgware.jpg";
 import img3 from "../Assets/Images/test/4.webp";
 import img4 from "../Assets/Images/test/5.webp";
@@ -20,9 +20,9 @@ export default class Releases extends Component {
   render() {
     return (
       <div className="pageDefault Releases">
-        <div><div className='outer'><img src={img1} /><div class="middle"><p>CD Size</p></div></div> <p>Example 1 </p><p>King Filth</p></div>
-        <div><div className='outer'><img src={img2} /><div class="middle"><p>CD Size</p></div></div> <p>Example 2 </p><p>Edgware</p></div>
-        <div><div className='outer'><img src={img3} /><div class="middle"><p>CD Size</p></div></div> <p>Example 3 </p><p>Artist 3</p></div>
+        <div><div className='outer'><img src={img1} /><div class="middle"><p></p></div></div> <p>(Coming soon) </p><p>King Filth</p></div>
+        <div><div className='outer'><img src={img2} /><div class="middle"><p></p></div></div> <p>(Coming soon) </p><p>Edgware</p></div>
+        {/* <div><div className='outer'><img src={img3} /><div class="middle"><p>CD Size</p></div></div> <p>Example 3 </p><p>Artist 3</p></div>
         <div><div className='outer'><img src={img4} /><div class="middle"><p>CD Size</p></div></div> <p>Example 4 </p><p>Artist 4</p></div>
         <div><div className='outer'><img src={img5} /><div class="middle"><p>CD Size</p></div></div> <p>Example 5 </p><p>Artist 5</p></div>
         <div><div className='outer'><img src={img6} /><div class="middle"><p>CD Size</p></div></div> <p>Example 6 </p><p>Artist 6</p></div>
@@ -35,7 +35,7 @@ export default class Releases extends Component {
         <div><div className='outer'><img src={img13} /><div class="middle"><p>CD Size</p></div></div><p>Example 13</p><p>Artist 13</p></div>
         <div><div className='outer'><img src={img14} /><div class="middle"><p>CD Size</p></div></div><p>Example 14</p><p>Artist 14</p></div>
         <div><div className='outer'><img src={img15} /><div class="middle"><p>CD Size</p></div></div><p>Example 15</p><p>Artist 15</p></div>
-        <div><div className='outer'><img src={img16} /><div class="middle"><p>CD Size</p></div></div><p>Example 16</p><p>Artist 16</p></div>
+        <div><div className='outer'><img src={img16} /><div class="middle"><p>CD Size</p></div></div><p>Example 16</p><p>Artist 16</p></div> */}
       </div>
     );
   }

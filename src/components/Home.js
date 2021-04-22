@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import img1 from "../Assets/Images/King Filth.jpg";
+import img1 from "../Assets/Images/King Filth.png";
 import img2 from "../Assets/Images/Edgware.jpg";
 import img3 from "../Assets/Images/test/4.webp";
 import img4 from "../Assets/Images/test/5.webp";
@@ -24,20 +24,20 @@ export default class Home extends Component {
       allImages: [
         img1,
         img2,
-        img3,
-        img4,
-        img5,
-        img6,
-        img7,
-        img8,
-        img9,
-        img10,
-        img11,
-        img12,
-        img13,
-        img14,
-        img15,
-        img16,
+        // img3,
+        // img4,
+        // img5,
+        // img6,
+        // img7,
+        // img8,
+        // img9,
+        // img10,
+        // img11,
+        // img12,
+        // img13,
+        // img14,
+        // img15,
+        // img16,
       ],
     };
   }

@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import img1 from "../Assets/Images/King Filth.jpg";
+import img1 from "../Assets/Images/King Filth.png";
 import img2 from "../Assets/Images/Edgware.jpg";
 import img3 from "../Assets/Images/test/4.webp";
 import img4 from "../Assets/Images/test/5.webp";
@@ -21,8 +21,8 @@ export default class Artists extends Component {
     return (
       <div className="pageDefault Artists">
         <div><div className='outer'><img src={img1} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>King Filth</p></div>
-        <div><div className='outer'><img src={img2} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Edgware</p></div>
-        <div><div className='outer'><img src={img3} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 3 </p></div>
+        <div><div className='outer'><img src={img2} /> <div class="middle"><ul><li><a href='https://www.facebook.com/Edgware-100387394832914'>Facebook</a></li><li><a href='https://www.instagram.com/ntyghe/'>Instagram</a></li><li><a href='https://open.spotify.com/artist/0si2Zsxo8MTT9wy56diUF6'>Spotify</a></li><li><a href='https://edgware.bandcamp.com/'>BandCamp</a></li></ul></div></div><p>Edgware</p></div>
+        {/* <div><div className='outer'><img src={img3} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 3 </p></div>
         <div><div className='outer'><img src={img4} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 4 </p></div>
         <div><div className='outer'><img src={img5} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 5 </p></div>
         <div><div className='outer'><img src={img6} /> <div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 6 </p></div>
@@ -35,7 +35,7 @@ export default class Artists extends Component {
         <div><div className='outer'><img src={img13} /><div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 13</p></div>
         <div><div className='outer'><img src={img14} /><div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 14</p></div>
         <div><div className='outer'><img src={img15} /><div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 15</p></div>
-        <div><div className='outer'><img src={img16} /><div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 16</p></div>
+        <div><div className='outer'><img src={img16} /><div class="middle"><ul><li><a href='https://www.facebook.com/'>Facebook</a></li><li><a href='https://www.instagram.com/'>Instagram</a></li><li><a href='https://open.spotify.com/'>Spotify</a></li></ul></div></div><p>Artist 16</p></div> */}
       </div>
     );
   }

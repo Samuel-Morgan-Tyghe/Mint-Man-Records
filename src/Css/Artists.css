@@ -37,7 +37,8 @@
     opacity: 1; }
   .Artists p {
     font-family: Ramona-Light;
-    margin-left: 20px; }
+    margin-left: 20px;
+    font-size: 20px; }
   .Artists a {
     font-family: Ramona-Light;
     text-decoration: none;
