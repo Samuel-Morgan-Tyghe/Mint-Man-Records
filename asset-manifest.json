@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Mint-Man-Records/static/css/main.c5733af4.chunk.css",
-    "main.js": "/Mint-Man-Records/static/js/main.df21e3bb.chunk.js",
-    "main.js.map": "/Mint-Man-Records/static/js/main.df21e3bb.chunk.js.map",
+    "main.css": "/Mint-Man-Records/static/css/main.a9d25ef6.chunk.css",
+    "main.js": "/Mint-Man-Records/static/js/main.742221aa.chunk.js",
+    "main.js.map": "/Mint-Man-Records/static/js/main.742221aa.chunk.js.map",
     "runtime-main.js": "/Mint-Man-Records/static/js/runtime-main.df0af636.js",
     "runtime-main.js.map": "/Mint-Man-Records/static/js/runtime-main.df0af636.js.map",
-    "static/js/2.09a03354.chunk.js": "/Mint-Man-Records/static/js/2.09a03354.chunk.js",
-    "static/js/2.09a03354.chunk.js.map": "/Mint-Man-Records/static/js/2.09a03354.chunk.js.map",
+    "static/js/2.bd97b6af.chunk.js": "/Mint-Man-Records/static/js/2.bd97b6af.chunk.js",
+    "static/js/2.bd97b6af.chunk.js.map": "/Mint-Man-Records/static/js/2.bd97b6af.chunk.js.map",
     "index.html": "/Mint-Man-Records/index.html",
-    "precache-manifest.7b2198389c8096820cc85373d7018778.js": "/Mint-Man-Records/precache-manifest.7b2198389c8096820cc85373d7018778.js",
+    "precache-manifest.eb1d6d9de87b2f4cf809d234fec778fb.js": "/Mint-Man-Records/precache-manifest.eb1d6d9de87b2f4cf809d234fec778fb.js",
     "service-worker.js": "/Mint-Man-Records/service-worker.js",
-    "static/css/main.c5733af4.chunk.css.map": "/Mint-Man-Records/static/css/main.c5733af4.chunk.css.map",
-    "static/js/2.09a03354.chunk.js.LICENSE.txt": "/Mint-Man-Records/static/js/2.09a03354.chunk.js.LICENSE.txt",
+    "static/css/main.a9d25ef6.chunk.css.map": "/Mint-Man-Records/static/css/main.a9d25ef6.chunk.css.map",
+    "static/js/2.bd97b6af.chunk.js.LICENSE.txt": "/Mint-Man-Records/static/js/2.bd97b6af.chunk.js.LICENSE.txt",
     "static/media/10.webp": "/Mint-Man-Records/static/media/10.a111920c.webp",
     "static/media/11.webp": "/Mint-Man-Records/static/media/11.ff56ea1e.webp",
     "static/media/12.webp": "/Mint-Man-Records/static/media/12.7d73e703.webp",
@@ -20,8 +20,6 @@
     "static/media/15.webp": "/Mint-Man-Records/static/media/15.c52ab2a9.webp",
     "static/media/16.webp": "/Mint-Man-Records/static/media/16.d4810ced.webp",
     "static/media/17.webp": "/Mint-Man-Records/static/media/17.c1075900.webp",
-    "static/media/2.webp": "/Mint-Man-Records/static/media/2.f7a6c1cb.webp",
-    "static/media/3.webp": "/Mint-Man-Records/static/media/3.b4d4dfc3.webp",
     "static/media/4.webp": "/Mint-Man-Records/static/media/4.59b1cb23.webp",
     "static/media/5.webp": "/Mint-Man-Records/static/media/5.c2b0d31f.webp",
     "static/media/6.webp": "/Mint-Man-Records/static/media/6.163c9fc3.webp",
@@ -29,12 +27,14 @@
     "static/media/8.webp": "/Mint-Man-Records/static/media/8.c73563ba.webp",
     "static/media/9.webp": "/Mint-Man-Records/static/media/9.e974aa71.webp",
     "static/media/App.css": "/Mint-Man-Records/static/media/SangoUppercase-Static.dc891035.otf",
-    "static/media/mint-logo.webp": "/Mint-Man-Records/static/media/mint-logo.06cad6a3.webp"
+    "static/media/Edgware.jpg": "/Mint-Man-Records/static/media/Edgware.43c25b9c.jpg",
+    "static/media/King Filth.png": "/Mint-Man-Records/static/media/King Filth.927c3724.png",
+    "static/media/mint-logo.png": "/Mint-Man-Records/static/media/mint-logo.285acbc8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.df0af636.js",
-    "static/js/2.09a03354.chunk.js",
-    "static/css/main.c5733af4.chunk.css",
-    "static/js/main.df21e3bb.chunk.js"
+    "static/js/2.bd97b6af.chunk.js",
+    "static/css/main.a9d25ef6.chunk.css",
+    "static/js/main.742221aa.chunk.js"
   ]
 }

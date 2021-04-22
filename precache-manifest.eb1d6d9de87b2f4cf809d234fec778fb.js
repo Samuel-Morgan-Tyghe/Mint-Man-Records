@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e6d82615cd4d9d51e676fab5065a2283",
+    "revision": "647a26de685f87a44bad64a7bea41f91",
     "url": "/Mint-Man-Records/index.html"
   },
   {
-    "revision": "d8a15375674323aaf516",
-    "url": "/Mint-Man-Records/static/css/main.c5733af4.chunk.css"
+    "revision": "fa35d1781a96db944493",
+    "url": "/Mint-Man-Records/static/css/main.a9d25ef6.chunk.css"
   },
   {
-    "revision": "bd07a74c5ce6b2f4df7c",
-    "url": "/Mint-Man-Records/static/js/2.09a03354.chunk.js"
+    "revision": "08f5854347695820a0b4",
+    "url": "/Mint-Man-Records/static/js/2.bd97b6af.chunk.js"
   },
   {
     "revision": "8da57ccee1690fd1d0790b5fcb8f1bad",
-    "url": "/Mint-Man-Records/static/js/2.09a03354.chunk.js.LICENSE.txt"
+    "url": "/Mint-Man-Records/static/js/2.bd97b6af.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d8a15375674323aaf516",
-    "url": "/Mint-Man-Records/static/js/main.df21e3bb.chunk.js"
+    "revision": "fa35d1781a96db944493",
+    "url": "/Mint-Man-Records/static/js/main.742221aa.chunk.js"
   },
   {
     "revision": "58b05328b65e38f62820",
@@ -56,14 +56,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mint-Man-Records/static/media/17.c1075900.webp"
   },
   {
-    "revision": "f7a6c1cb44ccb81a369a956bb26859e0",
-    "url": "/Mint-Man-Records/static/media/2.f7a6c1cb.webp"
-  },
-  {
-    "revision": "b4d4dfc36b84c95a1893f65334d16691",
-    "url": "/Mint-Man-Records/static/media/3.b4d4dfc3.webp"
-  },
-  {
     "revision": "59b1cb234490a4720c6e6f139880d5a9",
     "url": "/Mint-Man-Records/static/media/4.59b1cb23.webp"
   },
@@ -96,6 +88,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mint-Man-Records/static/media/Benzol_personal_use.b1a35d2c.otf"
   },
   {
+    "revision": "43c25b9c8c7fa1149198361e9309d8c4",
+    "url": "/Mint-Man-Records/static/media/Edgware.43c25b9c.jpg"
+  },
+  {
+    "revision": "927c3724e9cc5638069dd264ed18bad2",
+    "url": "/Mint-Man-Records/static/media/King Filth.927c3724.png"
+  },
+  {
     "revision": "d4af716dbeecf97b186dacdd8cec8ca2",
     "url": "/Mint-Man-Records/static/media/Ramona-Bold.d4af716d.ttf"
   },
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Mint-Man-Records/static/media/SangoUppercase-Static.dc891035.otf"
   },
   {
-    "revision": "06cad6a33097a2acc2e3e0c3666f5e8a",
-    "url": "/Mint-Man-Records/static/media/mint-logo.06cad6a3.webp"
+    "revision": "285acbc844de820e829236dbe6f3799e",
+    "url": "/Mint-Man-Records/static/media/mint-logo.285acbc8.png"
   }
 ]);
